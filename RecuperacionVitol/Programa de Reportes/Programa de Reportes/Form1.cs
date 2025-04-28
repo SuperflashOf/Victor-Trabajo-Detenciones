@@ -71,7 +71,7 @@ namespace Programa_de_Reportes
             detenciones.motivo = motiv.Text;
             detenciones.id_tipo = Convert.ToInt32(tipodeten.Text);
             detenciones.estado = estad.Text;
-            
+
             int result = DetencionesDAL.ModificarDetencion(detenciones);
 
             if (result > 0)
@@ -127,6 +127,32 @@ namespace Programa_de_Reportes
             estudiantes AgrEst = new estudiantes();
 
             AgrEst.Show();
+        }
+
+        private void BotonBuscar_Click(object sender, EventArgs e)
+        {
+            Estudiantes estudiantes = new Estudiantes();
+            estudiantes.nombre = boxbuscarestudiante.Text;
+
+            List<Estudiantes> resultados = DetencionesDAL.BuscarEstud(estudiantes);
+
+            estudiantesver.DataSource = resultados;
+        }
+
+        private void limp2_Click(object sender, EventArgs e)
+        {
+            boxbuscarestudiante.Text = "";
+            estudiantesver.DataSource = DetencionesDAL.PresentarEstudiantes();
+        }
+
+        private void BscID_Click(object sender, EventArgs e)
+        {
+            Estudiantes estudiantes = new Estudiantes();
+            estudiantes.id_estudiante = Convert.ToInt32(boxbuscarid.Text);
+
+            List<Estudiantes> resultados = DetencionesDAL.BuscarIdEstudiante(estudiantes);
+
+            estudiantesver.DataSource = resultados;
         }
     }
 }

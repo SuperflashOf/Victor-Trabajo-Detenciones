@@ -57,6 +57,13 @@
             this.label12 = new System.Windows.Forms.Label();
             this.iddetenc = new System.Windows.Forms.TextBox();
             this.button7 = new System.Windows.Forms.Button();
+            this.boxbuscarestudiante = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.BotonBuscar = new System.Windows.Forms.Button();
+            this.limp2 = new System.Windows.Forms.Button();
+            this.BscID = new System.Windows.Forms.Button();
+            this.boxbuscarid = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.estudiantesver)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.detencionesver)).BeginInit();
             this.SuspendLayout();
@@ -66,7 +73,7 @@
             this.estudiantesver.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.estudiantesver.Location = new System.Drawing.Point(370, 46);
             this.estudiantesver.Name = "estudiantesver";
-            this.estudiantesver.Size = new System.Drawing.Size(668, 143);
+            this.estudiantesver.Size = new System.Drawing.Size(668, 121);
             this.estudiantesver.TabIndex = 0;
             // 
             // button1
@@ -323,11 +330,80 @@
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
+            // boxbuscarestudiante
+            // 
+            this.boxbuscarestudiante.Location = new System.Drawing.Point(471, 173);
+            this.boxbuscarestudiante.Name = "boxbuscarestudiante";
+            this.boxbuscarestudiante.Size = new System.Drawing.Size(118, 20);
+            this.boxbuscarestudiante.TabIndex = 33;
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(370, 176);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(95, 13);
+            this.label13.TabIndex = 32;
+            this.label13.Text = "Buscar estudiante:";
+            // 
+            // BotonBuscar
+            // 
+            this.BotonBuscar.Location = new System.Drawing.Point(595, 172);
+            this.BotonBuscar.Name = "BotonBuscar";
+            this.BotonBuscar.Size = new System.Drawing.Size(64, 20);
+            this.BotonBuscar.TabIndex = 34;
+            this.BotonBuscar.Text = "Buscar";
+            this.BotonBuscar.UseVisualStyleBackColor = true;
+            this.BotonBuscar.Click += new System.EventHandler(this.BotonBuscar_Click);
+            // 
+            // limp2
+            // 
+            this.limp2.Location = new System.Drawing.Point(974, 173);
+            this.limp2.Name = "limp2";
+            this.limp2.Size = new System.Drawing.Size(64, 20);
+            this.limp2.TabIndex = 35;
+            this.limp2.Text = "Limpiar";
+            this.limp2.UseVisualStyleBackColor = true;
+            this.limp2.Click += new System.EventHandler(this.limp2_Click);
+            // 
+            // BscID
+            // 
+            this.BscID.Location = new System.Drawing.Point(861, 172);
+            this.BscID.Name = "BscID";
+            this.BscID.Size = new System.Drawing.Size(64, 20);
+            this.BscID.TabIndex = 38;
+            this.BscID.Text = " Buscar";
+            this.BscID.UseVisualStyleBackColor = true;
+            this.BscID.Click += new System.EventHandler(this.BscID_Click);
+            // 
+            // boxbuscarid
+            // 
+            this.boxbuscarid.Location = new System.Drawing.Point(728, 172);
+            this.boxbuscarid.Name = "boxbuscarid";
+            this.boxbuscarid.Size = new System.Drawing.Size(127, 20);
+            this.boxbuscarid.TabIndex = 37;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(665, 175);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(57, 13);
+            this.label14.TabIndex = 36;
+            this.label14.Text = "Buscar ID:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1050, 543);
+            this.Controls.Add(this.BscID);
+            this.Controls.Add(this.boxbuscarid);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.limp2);
+            this.Controls.Add(this.BotonBuscar);
+            this.Controls.Add(this.boxbuscarestudiante);
+            this.Controls.Add(this.label13);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.iddetenc);
@@ -398,6 +474,13 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox iddetenc;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.TextBox boxbuscarestudiante;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Button BotonBuscar;
+        private System.Windows.Forms.Button limp2;
+        private System.Windows.Forms.Button BscID;
+        private System.Windows.Forms.TextBox boxbuscarid;
+        private System.Windows.Forms.Label label14;
     }
 }
 

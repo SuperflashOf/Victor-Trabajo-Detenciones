@@ -174,6 +174,66 @@ namespace Programa_de_Reportes
             }
         }
 
+        public static List<Estudiantes> BuscarEstud(Estudiantes estudiantes)
+        {
+            List<Estudiantes> ListaB = new List<Estudiantes>();
+
+            using (SqlConnection connection = SchoolBD.Conexion())
+            {
+                string query = $"Select * From Estudiantes Where nombre like '%{estudiantes.nombre}%'";
+                SqlCommand comando = new SqlCommand(query, connection);
+
+                SqlDataReader reader = comando.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    Estudiantes est = new Estudiantes()
+                    {
+                        id_estudiante = reader.GetInt32(reader.GetOrdinal("id_estudiante")),
+                        nombre = reader.GetString(reader.GetOrdinal("nombre")),
+                        matricula = reader.GetString(reader.GetOrdinal("matricula")),
+                        edad = reader.GetInt32(reader.GetOrdinal("edad")),
+                        telefono = reader.GetString(reader.GetOrdinal("telefono")),
+                        id_curso = reader.GetInt32(reader.GetOrdinal("id_curso"))
+                    };
+
+                    ListaB.Add(est);
+                }
+                connection.Close();
+                return ListaB;
+            }
+        }
+
+        public static List<Estudiantes> BuscarIdEstudiante(Estudiantes estudiantes)
+        {
+            List<Estudiantes> ListaB = new List<Estudiantes>();
+
+            using (SqlConnection connection = SchoolBD.Conexion())
+            {
+                string query = $"Select * From Estudiantes Where id_estudiante = {estudiantes.id_estudiante}";
+                SqlCommand comando = new SqlCommand(query, connection);
+
+                SqlDataReader reader = comando.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    Estudiantes est = new Estudiantes()
+                    {
+                        id_estudiante = reader.GetInt32(reader.GetOrdinal("id_estudiante")),
+                        nombre = reader.GetString(reader.GetOrdinal("nombre")),
+                        matricula = reader.GetString(reader.GetOrdinal("matricula")),
+                        edad = reader.GetInt32(reader.GetOrdinal("edad")),
+                        telefono = reader.GetString(reader.GetOrdinal("telefono")),
+                        id_curso = reader.GetInt32(reader.GetOrdinal("id_curso"))
+                    };
+
+                    ListaB.Add(est);
+                }
+                connection.Close();
+                return ListaB;
+            }
+        }
+
         public static DataTable ObtenerTop5Estudiantes()
         {
             DataTable dt = new DataTable();

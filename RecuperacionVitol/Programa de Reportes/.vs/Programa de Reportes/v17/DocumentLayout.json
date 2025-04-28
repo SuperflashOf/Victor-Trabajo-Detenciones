@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\",
+  "WorkspaceRootPath": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\recuperacion vitol\\programa de reportes\\programa de reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\detenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\detenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\recuperacion vitol\\programa de reportes\\programa de reportes\\reporteestudiantesdetenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\reporteestudiantesdetenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\recuperacion vitol\\programa de reportes\\programa de reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\recuperacion vitol\\programa de reportes\\programa de reportes\\detenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\detenciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|c:\\users\\eldwi\\downloads\\descargas espacio\\pr\\victor-trabajo-detenciones\\recuperacionvitol\\programa de reportes\\programa de reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC0E9B81-D69C-42AE-B8CE-05FA23607812}|Programa de Reportes\\Programa de Reportes.csproj|solutionrelative:programa de reportes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReporteEstudiantesDetenciones.cs",
-              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\ReporteEstudiantesDetenciones.cs",
-              "RelativeDocumentMoniker": "Programa de Reportes\\ReporteEstudiantesDetenciones.cs",
-              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\ReporteEstudiantesDetenciones.cs",
-              "RelativeToolTip": "Programa de Reportes\\ReporteEstudiantesDetenciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Program.cs",
+              "RelativeDocumentMoniker": "Programa de Reportes\\Program.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Program.cs",
+              "RelativeToolTip": "Programa de Reportes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:01:12.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Reporte.cs",
-              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Reporte.cs",
-              "RelativeDocumentMoniker": "Programa de Reportes\\Reporte.cs",
-              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Reporte.cs",
-              "RelativeToolTip": "Programa de Reportes\\Reporte.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:00:58.62Z",
+              "WhenOpened": "2025-04-28T13:09:08.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs",
-              "RelativeDocumentMoniker": "Programa de Reportes\\Form1.cs",
-              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs",
-              "RelativeToolTip": "Programa de Reportes\\Form1.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Principal.cs",
+              "RelativeDocumentMoniker": "Programa de Reportes\\Principal.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Principal.cs",
+              "RelativeToolTip": "Programa de Reportes\\Principal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwCAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:00:45.743Z",
+              "WhenOpened": "2025-04-28T12:58:52.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Principal.cs",
+              "RelativeDocumentMoniker": "Programa de Reportes\\Principal.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Programa de Reportes\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:57:02.362Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa de Reportes\\Form1.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs",
+              "RelativeToolTip": "Programa de Reportes\\Form1.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:46:04.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa de Reportes\\Form1.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Programa de Reportes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:39:30.112Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Detenciones.cs",
-              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Detenciones.cs",
+              "DocumentMoniker": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Detenciones.cs",
               "RelativeDocumentMoniker": "Programa de Reportes\\Detenciones.cs",
-              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Recuperacion Vitol\\Programa de Reportes\\Programa de Reportes\\Detenciones.cs",
+              "ToolTip": "C:\\Users\\eldwi\\Downloads\\Descargas Espacio\\Pr\\Victor-Trabajo-Detenciones\\RecuperacionVitol\\Programa de Reportes\\Programa de Reportes\\Detenciones.cs",
               "RelativeToolTip": "Programa de Reportes\\Detenciones.cs",
-              "ViewState": "AgIAALsAAAAAAAAAAAAgwOYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALYAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T23:28:15.488Z",
               "EditorCaption": ""
