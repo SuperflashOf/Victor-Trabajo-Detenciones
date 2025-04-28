@@ -1382,3 +1382,13 @@ GROUP BY
 ORDER BY 
     CantidadDetenciones DESC;
 
+
+UPDATE Estudiantes
+SET nombre = REPLACE(nombre, 'ú', 'u')
+WHERE nombre LIKE '%ú%';
+
+UPDATE Cursos
+SET nombre_curso = REPLACE(nombre_curso, 'á', 'a')
+WHERE nombre_curso LIKE '%a%';
+
+select * from Cursos
