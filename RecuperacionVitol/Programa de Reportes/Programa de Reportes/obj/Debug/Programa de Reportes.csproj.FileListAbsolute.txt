@@ -1,0 +1,132 @@
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.exe.config
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.exe
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.pdb
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\EnvDTE.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\stdole.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\EnvDTE.xml
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.AssemblyReference.cache
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.Form1.resources
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.Properties.Resources.resources
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.GenerateResource.cache
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa.A12D6723.Up2Date
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.exe
+C:\Users\Eldwin Trinidad\source\repos\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.pdb
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.exe.config
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.exe
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Programa de Reportes.pdb
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\EnvDTE.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\stdole.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.AssemblyReference.cache
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.Form1.resources
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.Properties.Resources.resources
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.GenerateResource.cache
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.csproj.CoreCompileInputs.cache
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa.A12D6723.Up2Date
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.exe
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa de Reportes.pdb
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.Reporte.resources
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ReporteTop5.rdlc
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.ReporteEstudiantesDetenciones.resources
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\bin\Debug\ReporteEstudiantesDetenciones.rdlc
+C:\Users\eldwi\Downloads\Descargas Espacio\Pr\Recuperacion Vitol\Programa de Reportes\Programa de Reportes\obj\Debug\Programa_de_Reportes.estudiantes.resources
